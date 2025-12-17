@@ -51,6 +51,12 @@ The frontend interacts with the backend API.
 2. It is recommended to use **Live Server** (VS Code extension) or any simple HTTP server to serve the files.
    - Open `index.html` in your browser.
 
+### Docker Setup (Frontend)
+The application frontend is containerized for easy deployment.
+
+1. Navigate to the `frontend` directory:
+   ```bash
+   cd frontend
 ## Usage
 
 ### Admin Access
